@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Himalaya Natural",
+        "rating": 4.5,
+        "price": 99.99,
+        "discount_price": 79.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/7f7705ef872c9c0b07a462bd10876e26.jpg_400x400q75.avif",
+        "category": "Beauty",
+        "type": "normal"
+    },
+    {
+        "id": 2,
+        "name": "DC Ville DE Lamour",
+        "rating": 4.8,
+        "price": 1099.99,
+        "discount_price": 899.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/8fc0759b387c515cba962c8d17afc866.jpg_400x400q75.avif",
+        "category": "Beauty",
+        "type": "favourite"
+    },
+    {
+        "id": 3,
+        "name": "NIVEA Pearl",
+        "rating": 4.7,
+        "price": 1499.99,
+        "discount_price": 1299.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/b572f1d7d077ec002ccb63bfa847c07a.jpg_400x400q75.avif",
+        "category": "Beauty",
+        "type": "normal"
+    },
+    {
+        "id": 4,
+        "name": "Canvas Bag Korean",
+        "rating": 4.6,
+        "price": 399.99,
+        "discount_price": 349.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/ca44f69c8d3cc2059a74dfb4a8e84dbb.png_400x400q75.avif",
+        "category": "Beg",
+        "type": "normal"
+    },
+    {
+        "id": 5,
+        "name": "Caini Tote Bag",
+        "rating": 4.3,
+        "price": 799.99,
+        "discount_price": 0,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/3c536d3812f7a63e78c76f9865b8e257.jpg_400x400q75.avif",
+        "category": "Beg",
+        "type": "favourite"
+    },
+    {
+        "id": 6,
+        "name": "Pokie Pu ",
+        "rating": 4.2,
+        "price": 49.99,
+        "discount_price": 39.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/17b54274599e17e8e2e60d6922277630.jpg_400x400q75.avif",
+        "category": "Beg",
+        "type": "normal"
+    },
+    {
+        "id": 7,
+        "name": "Sofa Set",
+        "rating": 4.0,
+        "price": 29.99,
+        "discount_price": 19.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/a04e145ac73a0d2eb7a5dc954a096f8f.jpg_400x400q75.avif",
+        "category": "Furniture",
+        "type": "normal"
+    },
+    {
+        "id": 8,
+        "name": "Bed Side Table",
+        "rating": 4.8,
+        "price": 59.99,
+        "discount_price": 49.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/5a4a8a0233c2c394eb95972bccef99c6.jpg_400x400q75.avif",
+        "category": "Furniture",
+        "type": "favourite"
+    },
+    {
+        "id": 9,
+        "name": "Show Rack",
+        "rating": 4.4,
+        "price": 39.99,
+        "discount_price": 29.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/69a13e3cca7d85e0d79cfd1d65dffcde.jpg_400x400q75.avif",
+        "category": "Furniture",
+        "type": "normal"
+    },
+    {
+        "id": 10,
+        "name": "Motorola 5G",
+        "rating": 4.6,
+        "price": 149.99,
+        "discount_price": 129.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/27ec0a448618d8d1d3befb3280a70e03.jpg_400x400q75.avif",
+        "category": "Phone",
+        "type": "normal"
+    },
+    {
+        "id": 11,
+        "name": "iQOO Neo 10",
+        "rating": 4.5,
+        "price": 99.99,
+        "discount_price": 0,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/bc8e18914e5b183a2441f5a6478d1056.jpg_400x400q75.avif",
+        "category": "Phone",
+        "type": "favourite"
+    },
+    {
+        "id": 12,
+        "name": "Iphone 12 Pro Max",
+        "rating": 4.8,
+        "price": 1099.99,
+        "discount_price": 899.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/611f31710169c001601a15ea9edf04e4.jpg_400x400q75.avif",
+        "category": "Phone",
+        "type": "normal"
+    },
+    {
+        "id": 13,
+        "name": "Dual-action ",
+        "rating": 4.7,
+        "price": 1499.99,
+        "discount_price": 1299.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/252ad5d8de044b20f6fe4366111631d4.jpg_400x400q75.avif",
+        "category": "Sound",
+        "type": "normal"
+    },
+    {
+        "id": 14,
+        "name": "QKZ DM10",
+        "rating": 4.6,
+        "price": 399.99,
+        "discount_price": 349.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/81df8d6bee3c11e0b15bcf08bcde8fda.jpg_400x400q75.avif",
+        "category": "Sound",
+        "type": "normal"
+    },
+    {
+        "id": 15,
+        "name": "Newmsnr G2000/s",
+        "rating": 4.3,
+        "price": 799.99,
+        "discount_price": 699.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/b5d570417d4ab73921ce7699c445b90f.jpg_400x400q75.avif",
+        "category": "Sound",
+        "type": "normal"
+    },
+    {
+        "id": 16,
+        "name": "Grinder Machine",
+        "rating": 4.2,
+        "price": 49.99,
+        "discount_price": 39.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/2814c411be55f3151415958429f23bad.png_400x400q75.avif",
+        "category": "Kitchen",
+        "type": "normal"
+    },
+    {
+        "id": 17,
+        "name": "Egg Beater",
+        "rating": 4.0,
+        "price": 29.99,
+        "discount_price": 19.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/46d2af8d00b1e23a40af1b2837d12cfe.jpg_400x400q75.avif",
+        "category": "Kitchen",
+        "type": "normal"
+    },
+    {
+        "id": 18,
+        "name": "Gas Lighter",
+        "rating": 4.8,
+        "price": 59.99,
+        "discount_price": 49.99,
+        "image": "https://img.drz.lazcdn.com/static/bd/p/fd6c2cb75e13fe690dee7b924e6d3f25.jpg_400x400q75.avif",
+        "category": "Kitchen",
+        "type": "normal"
+    }
+]
